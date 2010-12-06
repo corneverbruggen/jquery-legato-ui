@@ -1,0 +1,24 @@
+table {
+  background: #efefef;
+  border-collapse: collapse;
+}
+td {
+  width: 10px;
+  height: 10px;
+  border: solid 1px black;
+}
+td.focus {
+  width: 50px;
+  height: 50px;
+  background: red;
+}
+td.focus-2 {
+  width: 30px;  
+  height: 30px;
+  background: blue;
+}
+td.focus-3 {
+  width: 20px;  
+  height: 20px;
+  background: yellow;
+}
