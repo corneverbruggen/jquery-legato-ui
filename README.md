@@ -1,9 +1,2 @@
-- namespace Legato ?
-
-
-- license
-- .gitignore ?
-
-how about css?
-
-see jquery
+# jQuery Legato UI plugin
+More information will follow soon
